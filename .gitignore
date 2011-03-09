@@ -7,3 +7,4 @@ log/*.log
 tmp/**/*
 *.log
 */*.log
+webrat.log
