@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Users do
+describe User do
 
   before(:each) do
     @attr = { :name => "Example User", :email => "user@example.com" }
